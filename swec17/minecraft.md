@@ -5,6 +5,6 @@
 
 
 # computecraft edu
-* baut auf computecraft auf
-* programmiert schildkröten
+* based on computecraft
+* turtle programming
 

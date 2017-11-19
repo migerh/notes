@@ -9,5 +9,5 @@ Personal Knowledge Management / Personal Knowledge Mastery
   * I-to-K learning
   * K-to-M learning
 
-→ Lernen lernen
-→ Extrinsische und intrinsische Motivation
+→ Learn to learn
+→ extrinsic and intrinsic motivation
